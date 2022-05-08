@@ -1,0 +1,1 @@
+This project is for calculate rewards point for customer in retail shop.
